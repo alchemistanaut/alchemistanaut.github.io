@@ -358,7 +358,7 @@
 </g>
 <!-- pdf_acquire_key -->
 <g id="node22" class="node"><title>pdf_acquire_key</title>
-<g id="a_node22"><a xlink:href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
+<g id="a_node22"><a xlink:href="https://github.com/alchemistanaut/contact/releases/tag/v2017.1.0/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
 <path fill="lavenderblush" stroke="black" d="M1250.5,-491C1250.5,-491 1149.5,-491 1149.5,-491 1143.5,-491 1137.5,-485 1137.5,-479 1137.5,-479 1137.5,-425 1137.5,-425 1137.5,-419 1143.5,-413 1149.5,-413 1149.5,-413 1250.5,-413 1250.5,-413 1256.5,-413 1262.5,-419 1262.5,-425 1262.5,-425 1262.5,-479 1262.5,-479 1262.5,-485 1256.5,-491 1250.5,-491"/>
 <text text-anchor="start" x="1145.5" y="-476.8" font-family="Times,serif" font-size="14.00">Import Justin&#39;s key.</text>
 <text text-anchor="start" x="1145.5" y="-462.8" font-family="Times,serif" font-size="14.00">Click on this node</text>
