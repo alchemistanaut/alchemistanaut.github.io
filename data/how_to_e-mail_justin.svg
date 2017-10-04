@@ -31,7 +31,7 @@
 <g id="node2" class="node"><title>crypto_ea</title>
 <g id="a_node2"><a xlink:title="The different addresses help Justin filter and reduce impact on others if one address is attacked, but there is no difference as far as spam scoring. &#160;The rasterized script font is to mitigate OCR&#45;capable bot&#45;executed address harvesting (to some extent).">
 <polygon fill="none" stroke="black" points="1144.5,-362 683.5,-362 683.5,-213 1144.5,-213 1144.5,-362"/>
-<image xlink:href="https://github.com/alchemistanaut/contact/releases/download/v2017.1.0/node_email_addresses.png" width="461px" height="149px" preserveAspectRatio="xMinYMin meet" x="683.5" y="-362"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_email_addresses.png" width="461px" height="149px" preserveAspectRatio="xMinYMin meet" x="683.5" y="-362"/>
 </a>
 </g>
 </g>
@@ -56,7 +56,7 @@
 <g id="node3" class="node"><title>web_ea</title>
 <g id="a_node3"><a xlink:title="The script font is to mitigate OCR&#45;capable bot&#45;executed address harvesting (to some extent).">
 <polygon fill="none" stroke="black" points="665,-336.5 225,-336.5 225,-238.5 665,-238.5 665,-336.5"/>
-<image xlink:href="https://github.com/alchemistanaut/contact/releases/download/v2017.1.0/node_webmail_addresses.png" width="440px" height="98px" preserveAspectRatio="xMinYMin meet" x="225" y="-336.5"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_webmail_addresses.png" width="440px" height="98px" preserveAspectRatio="xMinYMin meet" x="225" y="-336.5"/>
 </a>
 </g>
 </g>
@@ -103,7 +103,7 @@
 <polygon fill="#eeee00" stroke="black" points="394.5,-1115 227.5,-1115 227.5,-923 400.5,-923 400.5,-1109 394.5,-1115"/>
 <polyline fill="none" stroke="black" points="394.5,-1115 394.5,-1109 "/>
 <polyline fill="none" stroke="black" points="400.5,-1109 394.5,-1109 "/>
-<image xlink:href="https://github.com/alchemistanaut/contact/releases/download/v2017.1.0/node_muas.png" width="173px" height="192px" preserveAspectRatio="xMinYMin meet" x="227.5" y="-1115"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_muas.png" width="173px" height="192px" preserveAspectRatio="xMinYMin meet" x="227.5" y="-1115"/>
 </a>
 </g>
 </g>
@@ -262,7 +262,6 @@
 <g id="node27" class="node"><title>get_support</title>
 <g id="a_node27"><a xlink:href="https://github.com/alchemistanaut/contact/issues" xlink:title="Clicking will bring you to the github issues page, where you can describe your issue. &#160;Note that you&#39;ll need a github account to create an issue, and your entry will be publicly viewable. &#160;Alternatively, you can e&#45;mail support questions to the address herein, in the clear if needed.">
 <path fill="lavenderblush" stroke="black" d="M1154,-101C1154,-101 1034,-101 1034,-101 1028,-101 1022,-95 1022,-89 1022,-89 1022,-12 1022,-12 1022,-6 1028,-0 1034,-0 1034,-0 1154,-0 1154,-0 1160,-0 1166,-6 1166,-12 1166,-12 1166,-89 1166,-89 1166,-95 1160,-101 1154,-101"/>
-<image xlink:href="https://github.com/alchemistanaut/contact/releases/download/v2017.1.0/suprt_ea.png" width="144px" height="48px" preserveAspectRatio="xMinYMin meet" x="1022" y="-74.5"/>
 <text text-anchor="start" x="1030" y="-89.8" font-family="Times,serif" font-size="14.00">File a github issue by</text>
 <text text-anchor="start" x="1030" y="-74.8" font-family="Times,serif" font-size="14.00">clicking this node, or</text>
 <text text-anchor="start" x="1030" y="-59.8" font-family="Times,serif" font-size="14.00">E&#45;mail Justin at:</text>
@@ -358,7 +357,7 @@
 </g>
 <!-- pdf_acquire_key -->
 <g id="node22" class="node"><title>pdf_acquire_key</title>
-<g id="a_node22"><a xlink:href="https://github.com/alchemistanaut/contact/releases/download/v2017.1.0/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
+<g id="a_node22"><a xlink:href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
 <path fill="lavenderblush" stroke="black" d="M1250.5,-491C1250.5,-491 1149.5,-491 1149.5,-491 1143.5,-491 1137.5,-485 1137.5,-479 1137.5,-479 1137.5,-425 1137.5,-425 1137.5,-419 1143.5,-413 1149.5,-413 1149.5,-413 1250.5,-413 1250.5,-413 1256.5,-413 1262.5,-419 1262.5,-425 1262.5,-425 1262.5,-479 1262.5,-479 1262.5,-485 1256.5,-491 1250.5,-491"/>
 <text text-anchor="start" x="1145.5" y="-476.8" font-family="Times,serif" font-size="14.00">Import Justin&#39;s key.</text>
 <text text-anchor="start" x="1145.5" y="-462.8" font-family="Times,serif" font-size="14.00">Click on this node</text>
@@ -377,7 +376,6 @@
 <g id="node23" class="node"><title>acquire_by_email</title>
 <g id="a_node23"><a xlink:title="Be sure to tell Justin whether you need a PGP key or an S/MIME certificate, or tell him your mail client. &#160;E&#45;mailing is probably easier than the self&#45;service PDF option, but obviously it&#39;s not instant.">
 <path fill="lavenderblush" stroke="black" d="M1107,-473.5C1107,-473.5 987,-473.5 987,-473.5 981,-473.5 975,-467.5 975,-461.5 975,-461.5 975,-442.5 975,-442.5 975,-436.5 981,-430.5 987,-430.5 987,-430.5 1107,-430.5 1107,-430.5 1113,-430.5 1119,-436.5 1119,-442.5 1119,-442.5 1119,-461.5 1119,-461.5 1119,-467.5 1113,-473.5 1107,-473.5"/>
-<image xlink:href="https://github.com/alchemistanaut/contact/releases/download/v2017.1.0/suprt_ea.png" width="144px" height="43px" preserveAspectRatio="xMinYMin meet" x="975" y="-473.5"/>
 <text text-anchor="middle" x="1047" y="-462.3" font-family="Times,serif" font-size="14.00">Ask Justin for a key at:</text>
 </a>
 </g>
