@@ -262,6 +262,7 @@
 <g id="node27" class="node"><title>get_support</title>
 <g id="a_node27"><a xlink:href="https://github.com/alchemistanaut/contact/issues" xlink:title="Clicking will bring you to the github issues page, where you can describe your issue. &#160;Note that you&#39;ll need a github account to create an issue, and your entry will be publicly viewable. &#160;Alternatively, you can e&#45;mail support questions to the address herein, in the clear if needed.">
 <path fill="lavenderblush" stroke="black" d="M1154,-101C1154,-101 1034,-101 1034,-101 1028,-101 1022,-95 1022,-89 1022,-89 1022,-12 1022,-12 1022,-6 1028,-0 1034,-0 1034,-0 1154,-0 1154,-0 1160,-0 1166,-6 1166,-12 1166,-12 1166,-89 1166,-89 1166,-95 1160,-101 1154,-101"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="48px" preserveAspectRatio="xMinYMin meet" x="1022" y="-74.5"/>
 <text text-anchor="start" x="1030" y="-89.8" font-family="Times,serif" font-size="14.00">File a github issue by</text>
 <text text-anchor="start" x="1030" y="-74.8" font-family="Times,serif" font-size="14.00">clicking this node, or</text>
 <text text-anchor="start" x="1030" y="-59.8" font-family="Times,serif" font-size="14.00">E&#45;mail Justin at:</text>
@@ -376,6 +377,7 @@
 <g id="node23" class="node"><title>acquire_by_email</title>
 <g id="a_node23"><a xlink:title="Be sure to tell Justin whether you need a PGP key or an S/MIME certificate, or tell him your mail client. &#160;E&#45;mailing is probably easier than the self&#45;service PDF option, but obviously it&#39;s not instant.">
 <path fill="lavenderblush" stroke="black" d="M1107,-473.5C1107,-473.5 987,-473.5 987,-473.5 981,-473.5 975,-467.5 975,-461.5 975,-461.5 975,-442.5 975,-442.5 975,-436.5 981,-430.5 987,-430.5 987,-430.5 1107,-430.5 1107,-430.5 1113,-430.5 1119,-436.5 1119,-442.5 1119,-442.5 1119,-461.5 1119,-461.5 1119,-467.5 1113,-473.5 1107,-473.5"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="43px" preserveAspectRatio="xMinYMin meet" x="975" y="-473.5"/>
 <text text-anchor="middle" x="1047" y="-462.3" font-family="Times,serif" font-size="14.00">Ask Justin for a key at:</text>
 </a>
 </g>
