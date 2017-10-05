@@ -18,10 +18,13 @@ limitations under the License.
 <html>
   <body>
     <!-- The HTML link and j/s below it are designed to override the
-    SVG link.  The pubkeys_aes.pdf file is broken in pdf.js, and
-    forcing an external viewer entails using the download attribute,
-    which is not available in SVG, only available in HTML5.  The
-    javascript substitutes the HTML link for the SVG link. -->
+    SVG link.  The javascript substitutes the HTML link for the SVG
+    link. Rationale: the pubkeys_aes.pdf file is broken in old
+    versions of firefox pdf.js, and forcing an external viewer entails
+    using the /download/ attribute.  The /download/ attribute is not
+    available in SVG, only available in HTML5.  Which also means the
+    hack to circumvent pdf.js will only work on firefox versions that
+    are unlikely to need the hack.  Quelle damage.-->
     <a id="pdflink-html"
        href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf"
        download="public_keys_of_justin.pdf">

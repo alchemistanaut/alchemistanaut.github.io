@@ -99,7 +99,7 @@
 </g>
 <!-- muanote -->
 <g id="node6" class="node"><title>muanote</title>
-<g id="a_node6"><a xlink:href="https://en.wikipedia.org/wiki/Comparison_of_e-mail_clients#General_features" xlink:title="Clicking this node goes to a wiki showing a table of MUAs with columns indicating S/MIME and PGP support">
+<g id="a_node6"><a xlink:show="new" xlink:href="https://en.wikipedia.org/wiki/Comparison_of_e-mail_clients#General_features" xlink:title="Clicking this node goes to a wiki showing a table of MUAs with columns indicating S/MIME and PGP support">
 <polygon fill="#eeee00" stroke="black" points="394.5,-1115 227.5,-1115 227.5,-923 400.5,-923 400.5,-1109 394.5,-1115"/>
 <polyline fill="none" stroke="black" points="394.5,-1115 394.5,-1109 "/>
 <polyline fill="none" stroke="black" points="400.5,-1109 394.5,-1109 "/>
@@ -214,7 +214,7 @@
 </g>
 <!-- keybase -->
 <g id="node25" class="node"><title>keybase</title>
-<g id="a_node25"><a xlink:href="https://keybase.io/encrypt#alchemistanaut" xlink:title="This is quite simple, and you can use your usual mail client or webmail service without any changes. &#160;If you want a reply, Justin will likely respond with a PDF that can be opened using whatever password you supply. &#160;Limitation: there is no way to send Justin a file attachment using this keybase mechanism.">
+<g id="a_node25"><a xlink:show="new" xlink:href="https://keybase.io/encrypt#alchemistanaut" xlink:title="This is quite simple, and you can use your usual mail client or webmail service without any changes. &#160;If you want a reply, Justin will likely respond with a PDF that can be opened using whatever password you supply. &#160;Limitation: there is no way to send Justin a file attachment using this keybase mechanism.">
 <path fill="lavenderblush" stroke="black" d="M410,-486C410,-486 92,-486 92,-486 86,-486 80,-480 80,-474 80,-474 80,-430 80,-430 80,-424 86,-418 92,-418 92,-418 410,-418 410,-418 416,-418 422,-424 422,-430 422,-430 422,-474 422,-474 422,-480 416,-486 410,-486"/>
 <text text-anchor="start" x="88" y="-470.8" font-family="Times,serif" font-size="14.00">Click here, or go to keybase.io/encrypt#alchemistanaut,</text>
 <text text-anchor="start" x="88" y="-455.8" font-family="Times,serif" font-size="14.00">write your message, click &#39;encrypt&#39;, copy&#45;paste the resulting</text>
@@ -260,7 +260,7 @@
 </g>
 <!-- get_support -->
 <g id="node27" class="node"><title>get_support</title>
-<g id="a_node27"><a xlink:href="https://github.com/alchemistanaut/contact/issues" xlink:title="Clicking will bring you to the github issues page, where you can describe your issue. &#160;Note that you&#39;ll need a github account to create an issue, and your entry will be publicly viewable. &#160;Alternatively, you can e&#45;mail support questions to the address herein, in the clear if needed.">
+<g id="a_node27"><a xlink:show="new" xlink:href="https://github.com/alchemistanaut/contact/issues" xlink:title="Clicking will bring you to the github issues page, where you can describe your issue. &#160;Note that you&#39;ll need a github account to create an issue, and your entry will be publicly viewable. &#160;Alternatively, you can e&#45;mail support questions to the address herein, in the clear if needed.">
 <path fill="lavenderblush" stroke="black" d="M1154,-101C1154,-101 1034,-101 1034,-101 1028,-101 1022,-95 1022,-89 1022,-89 1022,-12 1022,-12 1022,-6 1028,-0 1034,-0 1034,-0 1154,-0 1154,-0 1160,-0 1166,-6 1166,-12 1166,-12 1166,-89 1166,-89 1166,-95 1160,-101 1154,-101"/>
 <image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="48px" preserveAspectRatio="xMinYMin meet" x="1022" y="-74.5"/>
 <text text-anchor="start" x="1030" y="-89.8" font-family="Times,serif" font-size="14.00">File a github issue by</text>
@@ -358,7 +358,7 @@
 </g>
 <!-- pdf_acquire_key -->
 <g id="node22" class="node"><title>pdf_acquire_key</title>
-<g id="a_node22"><a id="pdflink-svg" xlink:show="new" xlink:href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
+<g id="a_node22"><a xlink:show="new" id="pdflink-svg" xlink:href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
 <path fill="lavenderblush" stroke="black" d="M1250.5,-491C1250.5,-491 1149.5,-491 1149.5,-491 1143.5,-491 1137.5,-485 1137.5,-479 1137.5,-479 1137.5,-425 1137.5,-425 1137.5,-419 1143.5,-413 1149.5,-413 1149.5,-413 1250.5,-413 1250.5,-413 1256.5,-413 1262.5,-419 1262.5,-425 1262.5,-425 1262.5,-479 1262.5,-479 1262.5,-485 1256.5,-491 1250.5,-491"/>
 <text text-anchor="start" x="1145.5" y="-476.8" font-family="Times,serif" font-size="14.00">Import Justin&#39;s key.</text>
 <text text-anchor="start" x="1145.5" y="-462.8" font-family="Times,serif" font-size="14.00">Click on this node</text>
