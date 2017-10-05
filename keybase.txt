@@ -1,0 +1,74 @@
+==================================================================
+https://keybase.io/alchemistanaut
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://contact.gombos.info
+  * I am alchemistanaut (https://keybase.io/alchemistanaut) on keybase.
+  * I have a public key with fingerprint 7044 A47A 6E08 B347 D222  B5EC 68A3 C5B7 9DFB A11B
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01018600a690015f44931e4f58da882a21199f4d404df48acd1d2ffae3e35187fae90a",
+      "fingerprint": "7044a47a6e08b347d222b5ec68a3c5b79dfba11b",
+      "host": "keybase.io",
+      "key_id": "68a3c5b79dfba11b",
+      "kid": "01018600a690015f44931e4f58da882a21199f4d404df48acd1d2ffae3e35187fae90a",
+      "uid": "1950b4f5efaa9a6656155e4492e28419",
+      "username": "alchemistanaut"
+    },
+    "service": {
+      "hostname": "contact.gombos.info",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1507234098,
+  "expire_in": 157680000,
+  "prev": "0385cb359cd969b62803339eea04051e48bbf4370873541d00d6883b32191247",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+Comment: (mod'd for IDEA support)
+
+owGtUmtMFFcYXRCUZ6FIKramhYEEarc4751Zg1KQRxWakLIUNc1yZ+bO7nRhZ9kd
+lhIeamkLGgsigSplMVjlR19paoj2EcRSZHkUg1L7MASKUdQKpVVaYQU7Q+y//uz9
+c+937znnnu/kOxK+RufvZ/2w/6zH1/mM3/BtTrf7atO+SoSThQrEWInY4OoGiwXo
+Usw2SUCMCIqhGEOjKKBZFMUokSRZAoOkSDECYBgc4BjGsiIpkCgpiCQDeAETcFEE
+kIAEhTEG9cSiANEjomS3QKfDKdkVVdaAkiQgDYCGKMMRpEHAcZyjIE8zgOApzsAK
+IgcwjFOJVtmlMVRzHHDBZElW79TCvGrvP/D/s++yVTmMpVBOZUMRABbQNEVjFAVV
+URziDImxGtAFnXZQAlU0KOatsERyKcAOyhSkWo+ob26Jh1q8Wj+PcbxsVwCvJFvk
+Ek52JUt2UWvO4ZQVmZeLVYBVURwuoyagVDg0RjnkzI+1zJxkF9RQVYYbOl2SbEeM
+mIrkFUkTxyjUgBMkyjJ6BL7pkJzQLGkIykAzqLrUf6ATurWoCIbiOYJieYGlWY7G
+GZQgCBZCgJIopYbGcJxIEgaUMRAUiQkoKtAMQ3AEjrEYThoQrb1Su4wYadUnsKiS
+LsliB0qZEyLVIQf9NwXo/Px1awP9tXHThQRH/juDFScjdQd/2N3NuGPEvITZ4+2+
+J+Rz3syoihnp4Vub376e+mrUNINMLnrfea/e13V0273EnztzzbP9W+uLtoDljD5v
+f4olGts3vnTqpZQeS0TR1/XMnog2z7ZPaGpsYX9if9bhifY7gYVhHSe2/5qWNB4c
+4LOdk4aHdkTUfb6Y+XSc+Y/LA7k1VH9V3afzZ7JM+0tjKfGN3+4WE56p9pDM6uns
+k8VrmCpjSlcad400mYIKqyrTf7r00eTl8g+ea3ixq3b595cXY7PzD82s+ILmr91Z
+h0Cd+Ypf3JboJ3cVbI025T3//dwrN2s+rmnYWbg5ixydyklrdtwcrI2OSYqkd7W1
+zg/NXVyaix0dU3rStp+3RvfZd/TGn3e+3vhuRouFu7/QGtN63b0+PT4o6f3JpLZN
+37alJqQ2dbv2JtSWW/6u9/WZ4jz8iVu9Qs5T8/l/9TSvm2gKz6vTZ0gJvsbRzhe+
+Sd7w8ErloQtRp3vZBo+188fGhBzv+hvL8TvdQ/43W2OPOb5oKZ21bfDPeRSVfil3
+epAx6QrGOw6cbjt+1HNBuDUV1vwsPgBK9ywXrOROWX95tBAQl9qtH75o3Hvj1Ah/
+9szGltH8gaUDn7l6R47UTvPfhd6nK/+819kRZ/GG2WZuo30riV/e3VhITaBfZVse
+CCmho2u9U+bXUscCE0ceHNOHB18tssWHDv4D
+=N/X9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alchemistanaut
+
+==================================================================
