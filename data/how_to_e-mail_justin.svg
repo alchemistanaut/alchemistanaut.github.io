@@ -54,7 +54,7 @@
 </g>
 <!-- web_ea -->
 <g id="node3" class="node"><title>web_ea</title>
-<g id="a_node3"><a xlink:title="The script font is to mitigate OCR&#45;capable bot&#45;executed address harvesting (to some extent).">
+<g id="a_node3"><a xlink:title="The hushmail address us useable until Dec.31, 2018. &#160;The script font in this node is to mitigate OCR&#45;capable bot&#45;executed address harvesting (to some extent).">
 <polygon fill="none" stroke="black" points="665,-336.5 225,-336.5 225,-238.5 665,-238.5 665,-336.5"/>
 <image xlink:href="https://alchemistanaut.github.io/images/node_webmail_addresses.png" width="440px" height="98px" preserveAspectRatio="xMinYMin meet" x="225" y="-336.5"/>
 </a>
@@ -358,7 +358,7 @@
 </g>
 <!-- pdf_acquire_key -->
 <g id="node22" class="node"><title>pdf_acquire_key</title>
-<g id="a_node22"><a xlink:show="new" id="pdflink-svg" xlink:href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from">
+<g id="a_node22"><a xlink:show="new" id="pdflink-svg" xlink:href="https://alchemistanaut.github.io/data/pubkeys_aes.pdf" xlink:title="Clicking this will open a PDF container holding keys to choose from. &#160;Warning: if using an old browser, you may have to download the PDF and view in an external viewer.">
 <path fill="lavenderblush" stroke="black" d="M1250.5,-491C1250.5,-491 1149.5,-491 1149.5,-491 1143.5,-491 1137.5,-485 1137.5,-479 1137.5,-479 1137.5,-425 1137.5,-425 1137.5,-419 1143.5,-413 1149.5,-413 1149.5,-413 1250.5,-413 1250.5,-413 1256.5,-413 1262.5,-419 1262.5,-425 1262.5,-425 1262.5,-479 1262.5,-479 1262.5,-485 1256.5,-491 1250.5,-491"/>
 <text text-anchor="start" x="1145.5" y="-476.8" font-family="Times,serif" font-size="14.00">Import Justin&#39;s key.</text>
 <text text-anchor="start" x="1145.5" y="-462.8" font-family="Times,serif" font-size="14.00">Click on this node</text>
@@ -445,8 +445,8 @@
 </g>
 <!-- ea_forced_ea_short&#45;&gt;celebrate -->
 <g id="edge29" class="edge"><title>ea_forced_ea_short&#45;&gt;celebrate</title>
-<path fill="none" stroke="black" d="M1227.24,-268.336C1210.42,-251.277 1182.91,-226.426 1154,-213 1075.66,-176.618 1043.91,-200.213 957.371,-176.032"/>
-<polygon fill="black" stroke="black" points="958.268,-172.648 947.687,-173.194 956.299,-179.366 958.268,-172.648"/>
+<path fill="none" stroke="green" d="M1227.24,-268.336C1210.42,-251.277 1182.91,-226.426 1154,-213 1075.66,-176.618 1043.91,-200.213 957.371,-176.032"/>
+<polygon fill="green" stroke="green" points="958.268,-172.648 947.687,-173.194 956.299,-179.366 958.268,-172.648"/>
 </g>
 <!-- pdf_acquire_key&#45;&gt;ea_forced_ea_short -->
 <g id="edge28" class="edge"><title>pdf_acquire_key&#45;&gt;ea_forced_ea_short</title>
