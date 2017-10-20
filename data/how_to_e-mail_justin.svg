@@ -262,7 +262,7 @@
 <g id="node27" class="node"><title>get_support</title>
 <g id="a_node27"><a xlink:show="new" xlink:href="https://github.com/alchemistanaut/contact/issues" xlink:title="Clicking will bring you to the github issues page, where you can describe your issue. &#160;Note that you&#39;ll need a github account to create an issue, and your entry will be publicly viewable. &#160;Alternatively, you can e&#45;mail support questions to the address herein, in the clear if needed.">
 <path fill="lavenderblush" stroke="black" d="M1145,-101C1145,-101 1025,-101 1025,-101 1019,-101 1013,-95 1013,-89 1013,-89 1013,-12 1013,-12 1013,-6 1019,-0 1025,-0 1025,-0 1145,-0 1145,-0 1151,-0 1157,-6 1157,-12 1157,-12 1157,-89 1157,-89 1157,-95 1151,-101 1145,-101"/>
-<image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="17px" preserveAspectRatio="xMinYMin meet" x="1013" y="-59"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="48px" preserveAspectRatio="xMinYMin meet" x="1013" y="-74.5"/>
 <text text-anchor="start" x="1021" y="-89.8" font-family="Times,serif" font-size="14.00">File a github issue by</text>
 <text text-anchor="start" x="1021" y="-74.8" font-family="Times,serif" font-size="14.00">clicking this node, or</text>
 <text text-anchor="start" x="1021" y="-59.8" font-family="Times,serif" font-size="14.00">E&#45;mail Justin at:</text>
@@ -377,7 +377,7 @@
 <g id="node23" class="node"><title>acquire_by_email</title>
 <g id="a_node23"><a xlink:title="Be sure to tell Justin whether you need a PGP key or an S/MIME certificate, or tell him your mail client. &#160;E&#45;mailing is probably easier than the self&#45;service PDF option, but obviously it&#39;s not instant.">
 <path fill="lavenderblush" stroke="black" d="M1101,-473.5C1101,-473.5 981,-473.5 981,-473.5 975,-473.5 969,-467.5 969,-461.5 969,-461.5 969,-442.5 969,-442.5 969,-436.5 975,-430.5 981,-430.5 981,-430.5 1101,-430.5 1101,-430.5 1107,-430.5 1113,-436.5 1113,-442.5 1113,-442.5 1113,-461.5 1113,-461.5 1113,-467.5 1107,-473.5 1101,-473.5"/>
-<image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="17px" preserveAspectRatio="xMinYMin meet" x="969" y="-460.5"/>
+<image xlink:href="https://alchemistanaut.github.io/images/node_item_suprt_ea.png" width="144px" height="43px" preserveAspectRatio="xMinYMin meet" x="969" y="-473.5"/>
 <text text-anchor="middle" x="1041" y="-462.3" font-family="Times,serif" font-size="14.00">Ask Justin for a key at:</text>
 </a>
 </g>
